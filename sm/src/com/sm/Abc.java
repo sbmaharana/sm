@@ -19,7 +19,7 @@ public class Abc {
 		Student stud = new Student();
 		stud.setName("Sashi");
 		System.out.println(stud.getName());
-
+		System.out.println("Bye bye");
 	}
 
 }
